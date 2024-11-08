@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Смартфон XYZ",
+      "price": 299,
+      "category": "Смартфоны",
+      "description": "Высококачественный смартфон с отличной камерой и быстрым процессором.",
+      "image": "public/images/smartphone.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ноутбук ABC",
+      "price": 899,
+      "category": "Ноутбуки",
+      "description": "Мощный ноутбук для работы и развлечений.",
+      "image": "public/images/laptop.jpg"
+    }
+  ]
+  
